@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Jhon-Costa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jhon-Costa/Jhon-Costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Olá, meu nome é Jhon Costa.
+- Tive um guia na vida profissional e decidi mudar de área.
+- Encontrei minha paixão na área de tecnologia com o Curso de Sistemas para Internet.
+- Inície toda uma nova carreia a partir dos estudos em fevereiro/2022.
+- Meu objetivo é me tornar um DESENVOLVEDOR FULL STACK.
+- Estou atualizando um programar do 0. ;D <3
