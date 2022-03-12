@@ -1,6 +1,8 @@
 - Olá, meu nome é Jhon Costa.
-- Tive um guia na vida profissional e decidi mudar de área.
-- Encontrei minha paixão na área de tecnologia com o Curso de Sistemas para Internet.
-- Inície toda uma nova carreia a partir dos estudos em fevereiro/2022.
-- Meu objetivo é me tornar um DESENVOLVEDOR FULL STACK.
-- Estou atualizando um programar do 0. ;D <3
+- Mudei de área/profissão.
+- Estou  iniciando uma nova aventura no mundo da tecnologia.
+- Meu suporte é o Curso de Sistemas para Internet na UNIESP.
+- Estou apren.dendo a programar do 0, um ótimo desafio.
+- Meu início no mudo da tecnologia ocorreu em fevereiro/2022.
+- Estou amando!
+- 
